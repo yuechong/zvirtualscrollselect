@@ -127,8 +127,8 @@ export default {
      * 输入框搜索
      */
     handleSearch(value) {
-      console.log('value', value);
-      console.log(this.selectValue);
+      // console.log('value', value);
+      // console.log(this.selectValue);
       if (typeof value === 'undefined') {
         this.searchBool = false;
       } else {
@@ -144,7 +144,7 @@ export default {
      * 选中事件
      */
     selectChange(item) {
-      console.log('item', item);
+      // console.log('item', item);
       this.$emit('input', item.value);
       this.$emit('callback', item);
     },
