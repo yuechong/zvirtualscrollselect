@@ -1,0 +1,19 @@
+{
+  "name": "zvirtualscrollselect",
+  "version": "1.0.2",
+  "description": "options select下拉选项数据\r allowClear 是否可清除\r offSetNum 隐藏部分个数，防止滚动过快导致断片",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuechong/zvirtualscrollselect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuechong/zvirtualscrollselect/issues"
+  },
+  "homepage": "https://github.com/yuechong/zvirtualscrollselect#readme"
+}
